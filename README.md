@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beninyahead
+- 👋 Hi, I’m @b3mery
 - 👀 I’m interested in learning new technologies, languages technicques etc. 
 - 🌱 I’m currently learning Python, working my way through 100 days of code on Udemy.
 - 📫 You can reach me on linkedIn [here](https://www.linkedin.com/in/benjamin-emery-748399182/).
