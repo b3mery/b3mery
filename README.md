@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben Emery 
 - 👀 I’m interested in learning new technologies, languages etc. 
-- 🌱 I’m currently learning Python, working my way through 100 days of code on Udemy.
+- 🌱 I’m currently working with Python and SQL to develop Data Engineering solutions.
 - 👨‍💻 My Experience: 
     * I was introduced into programing at University, where I completed the fundamentals of Java. While I like Java and want to continue learning it other langues and technologies have taken priorities due to work requirements.
     * I learnt SQL through an online Udemy bootcamp, and use it heavily in my current and previous profsessions. 
